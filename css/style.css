@@ -1,0 +1,17 @@
+body {
+    background-color: #d6e3d5;
+}
+  
+table, th, td {
+    border: 1px solid;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #829f73;
+}
+  
